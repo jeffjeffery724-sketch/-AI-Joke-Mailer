@@ -1,4 +1,4 @@
-##🤖 AI Joke Automation & Email Sender
+# 🤖 AI Joke Automation & Email Sender
 
 This project is a simple AI-powered automation workflow designed to generate unique jokes, store them in a spreadsheet, and send them directly to your email whenever the trigger activates. The workflow ensures that no joke is repeated and provides a fun example of combining AI, automation, and memory systems.
 
